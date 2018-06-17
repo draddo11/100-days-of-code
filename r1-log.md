@@ -9,3 +9,5 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
 
 ### R1D53
 read an article on fcc medium about the struggles of a self taught  programmer 
+### R1D54
+read css visual dictionary aand eloquentjs
