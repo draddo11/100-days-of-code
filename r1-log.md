@@ -11,3 +11,5 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
 read an article on fcc medium about the struggles of a self taught  programmer 
 ### R1D54
 read css visual dictionary aand eloquentjs
+## R1D57 
+today i got the Git course on IBM and got the badge will do some more reading on eloquentjs and you dont know js before bed time
