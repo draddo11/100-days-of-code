@@ -13,3 +13,5 @@ read an article on fcc medium about the struggles of a self taught  programmer
 read css visual dictionary aand eloquentjs
 ## R1D57 
 today i got the Git course on IBM and got the badge will do some more reading on eloquentjs and you dont know js before bed time
+## R1D58 
+Gone throughthe css visual dictionary and read a little on node js from ibm (finally a server side framework), downloaded video resources on jquery
