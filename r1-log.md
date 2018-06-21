@@ -15,3 +15,5 @@ read css visual dictionary aand eloquentjs
 today i got the Git course on IBM and got the badge will do some more reading on eloquentjs and you dont know js before bed time
 ## R1D58 
 Gone throughthe css visual dictionary and read a little on node js from ibm (finally a server side framework), downloaded video resources on jquery
+## R1D59 
+started a full full screen landing page with html and cee by @traversymedia
