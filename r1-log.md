@@ -19,3 +19,5 @@ Gone throughthe css visual dictionary and read a little on node js from ibm (fin
 started a full full screen landing page with html and cee by @traversymedia
 ## R1D60
 FINALLY DONE with the full page landing page ..not perfect will keep working on it
+## R1D61
+Read the css visual dictionary and a little bit of eloquent js 3rd edition node js section .. did a little node js on ibm ..
