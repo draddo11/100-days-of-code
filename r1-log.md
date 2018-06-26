@@ -21,3 +21,6 @@ started a full full screen landing page with html and cee by @traversymedia
 FINALLY DONE with the full page landing page ..not perfect will keep working on it
 ## R1D61
 Read the css visual dictionary and a little bit of eloquent js 3rd edition node js section .. did a little node js on ibm ..
+## R1D62
+Read you dont know js and watched @mosh video on nodejs which is an intro to a node course he has avialble.
+
