@@ -23,4 +23,5 @@ FINALLY DONE with the full page landing page ..not perfect will keep working on 
 Read the css visual dictionary and a little bit of eloquent js 3rd edition node js section .. did a little node js on ibm ..
 ## R1D62
 Read you dont know js and watched @mosh video on nodejs which is an intro to a node course he has avialble.
-
+## R1D63
+Read you dont know js learned about closures,this, ..run most of the code through the console 
