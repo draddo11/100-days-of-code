@@ -25,3 +25,5 @@ Read the css visual dictionary and a little bit of eloquent js 3rd edition node 
 Read you dont know js and watched @mosh video on nodejs which is an intro to a node course he has avialble.
 ## R1D63
 Read you dont know js learned about closures,this, ..run most of the code through the console 
+## R1D64 
+the numbering of days is off will change it in my next commit , today did a lot of GoogleUdacitysCHOLARS FOR MY GOOGLE AFRICA SCHOLARSHIP ..jQuery section..will work on the pixel art maker
