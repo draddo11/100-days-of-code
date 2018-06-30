@@ -29,3 +29,5 @@ Read you dont know js learned about closures,this, ..run most of the code throug
 the numbering of days is off will change it in my next commit , today did a lot of GoogleUdacitysCHOLARS FOR MY GOOGLE AFRICA SCHOLARSHIP ..jQuery section..will work on the pixel art maker
 ## R1D67
 d67 thats the correct day to match my log on twitter reading about functions as values and immediately evoked funtions and closure from @ydkjs
+##R1D68
+Stayed up late to finish up pixel art project for google udacity africa scholarship , watched a video by @traversymedia on async await and promises  of javascript ..was a productive day
