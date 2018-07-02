@@ -31,3 +31,6 @@ the numbering of days is off will change it in my next commit , today did a lot 
 d67 thats the correct day to match my log on twitter reading about functions as values and immediately evoked funtions and closure from @ydkjs
 ##R1D68
 Stayed up late to finish up pixel art project for google udacity africa scholarship , watched a video by @traversymedia on async await and promises  of javascript ..was a productive day
+
+## R1D69
+learned about github pages today used t for the pixel art maker ,completed the event listerners scetion and officially through with google udacity africa scholarship .. hope i get into the nano degree  
