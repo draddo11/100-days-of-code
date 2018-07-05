@@ -35,5 +35,8 @@ Stayed up late to finish up pixel art project for google udacity africa scholars
 ## R1D69
 learned about github pages today used t for the pixel art maker ,completed the event listerners scetion and officially through with google udacity africa scholarship .. hope i get into the nano degree  
 
-##R1D70   
+## R1D70   
 did some fcc and read ydkjs , read an article on google style sheet for js and was really insightful  space ove tabs :)
+
+## R1D71
+Did a little bootstrap and finished  the first chapter of YDKJS - up and going....  great read will read the other chapters (scopes and  closures) 
