@@ -42,3 +42,5 @@ did some fcc and read ydkjs , read an article on google style sheet for js and w
 Did a little bootstrap and finished  the first chapter of YDKJS - up and going....  great read will read the other chapters (scopes and  closures) 
  ## R1D72 
  started the next chapter of YDKJS .. read articles on medium 
+ ## R1D72
+ doing fcc on css read a little YDKJS
