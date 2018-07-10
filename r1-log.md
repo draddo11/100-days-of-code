@@ -47,3 +47,6 @@ Did a little bootstrap and finished  the first chapter of YDKJS - up and going..
  
  ## R1D74
  Did some FCC css section and read YDKJS /lexical scope /
+ 
+ ## R175
+ some FCC css section and readydkjs
