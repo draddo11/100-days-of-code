@@ -50,3 +50,5 @@ Did a little bootstrap and finished  the first chapter of YDKJS - up and going..
  
  ## R175
  some FCC css section and readydkjs
+ ## R176
+ FCC, read YDKJS and checking out react intro on codeacademy JSX is intresting
