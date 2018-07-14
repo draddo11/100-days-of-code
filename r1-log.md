@@ -52,6 +52,8 @@ Did a little bootstrap and finished  the first chapter of YDKJS - up and going..
  some FCC css section and readydkjs
  ## R176
  FCC, read YDKJS and checking out react intro on codeacademy JSX is intresting
- ##R176
+ ##R177
  FCC CSS variables and intro to react 
 ##R178
+Mostly focused on @ydkjs ,reactjs on codeacademy and watched a video on vue.js for begginners fro cousetro guy to keep me on my refreshed 
+
