@@ -55,5 +55,9 @@ Did a little bootstrap and finished  the first chapter of YDKJS - up and going..
  ##R177
  FCC CSS variables and intro to react 
 ##R178
-Mostly focused on @ydkjs ,reactjs on codeacademy and watched a video on vue.js for begginners fro cousetro guy to keep me on my refreshed 
+
+Mostly focused on @ydkjs ,reactjs on codeacademy and watched a video on vue.js for begginners fro cousetro guy to keep me  refreshed 
+
+## R1D79
+Not feeling Well at all will change this log entry if i am ableto do a ittle worklog
 
