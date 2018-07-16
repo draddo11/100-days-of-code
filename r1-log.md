@@ -61,3 +61,6 @@ Mostly focused on @ydkjs ,reactjs on codeacademy and watched a video on vue.js f
 ## R1D79
 Not feeling Well at all will change this log entry if i am ableto do a ittle worklog
 
+##R1D80
+Feeling a bit better today got a great boost after a call from @acerbk who suggested SQL so decided to dedicate my last 20days of the challenge to @vue.js and SQL  .. 
+
