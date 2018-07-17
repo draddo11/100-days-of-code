@@ -63,4 +63,5 @@ Not feeling Well at all will change this log entry if i am ableto do a ittle wor
 
 ##R1D80
 Feeling a bit better today got a great boost after a call from @acerbk who suggested SQL so decided to dedicate my last 20days of the challenge to @vue.js and SQL  .. 
-
+##R1D81
+getting better now ..starting catcthing up on vue mastering web apps by @15DKatz ..
