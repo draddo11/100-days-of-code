@@ -68,3 +68,5 @@ getting better now ..starting catcthing up on vue mastering web apps by @15DKatz
 
 ##R1D82
 went over the basics of vue -- vue instance {{text}}, vue directives -- v-bind:title , v-for ,v-on (@)..great start to the last few days of this challenge  
+##R1D83
+FOCUSED on vue taking myself through vue lifecycle hooks ,computed properties and models. 
