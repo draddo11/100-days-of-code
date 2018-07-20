@@ -52,21 +52,24 @@ Did a little bootstrap and finished  the first chapter of YDKJS - up and going..
  some FCC css section and readydkjs
  ## R176
  FCC, read YDKJS and checking out react intro on codeacademy JSX is intresting
- ##R177
- FCC CSS variables and intro to react 
-##R178
 
+## R177
+ FCC CSS variables and intro to react 
+ 
+ ## R178
 Mostly focused on @ydkjs ,reactjs on codeacademy and watched a video on vue.js for begginners fro cousetro guy to keep me  refreshed 
 
 ## R1D79
 Not feeling Well at all will change this log entry if i am ableto do a ittle worklog
 
-##R1D80
+## R1D80
 Feeling a bit better today got a great boost after a call from @acerbk who suggested SQL so decided to dedicate my last 20days of the challenge to @vue.js and SQL  .. 
 ##R1D81
 getting better now ..starting catcthing up on vue mastering web apps by @15DKatz ..
 
-##R1D82
+## R1D82
 went over the basics of vue -- vue instance {{text}}, vue directives -- v-bind:title , v-for ,v-on (@)..great start to the last few days of this challenge  
-##R1D83
+## R1D83
 FOCUSED on vue taking myself through vue lifecycle hooks ,computed properties and models. 
+## R1D84
+Watched  the last  part of the application(with vuex and vue router) with vue worked on the vue components section ogf my video tutorial.
