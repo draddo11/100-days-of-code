@@ -73,3 +73,5 @@ went over the basics of vue -- vue instance {{text}}, vue directives -- v-bind:t
 FOCUSED on vue taking myself through vue lifecycle hooks ,computed properties and models. 
 ## R1D84
 Watched  the last  part of the application(with vuex and vue router) with vue worked on the vue components section ogf my video tutorial.
+## R1D85
+Atended the devcongressv9 had great interaction wit lots of other devs, grest tslk from edem ,euniceadu,aduwilli and all the panel who talked about start up. meet saba to irl.great time now wil bw inspired to do more
