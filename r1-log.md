@@ -75,3 +75,6 @@ FOCUSED on vue taking myself through vue lifecycle hooks ,computed properties an
 Watched  the last  part of the application(with vuex and vue router) with vue worked on the vue components section ogf my video tutorial.
 ## R1D85
 Atended the devcongressv9 had great interaction wit lots of other devs, grest tslk from edem ,euniceadu,aduwilli and all the panel who talked about start up. meet saba to irl.great time now wil bw inspired to do more
+
+## R1D86
+Caught up with my sololearn javascript and spent a lot of time setting up GHPages for all my uploaded projects made sure files were well organized
