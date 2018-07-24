@@ -78,3 +78,5 @@ Atended the devcongressv9 had great interaction wit lots of other devs, grest ts
 
 ## R1D86
 Caught up with my sololearn javascript and spent a lot of time setting up GHPages for all my uploaded projects made sure files were well organized
+## R1D87
+read eloquent javascript  , completed the javascript section of sololearn earned the cert , looked into setting up mySQL to learn on the pc ..had no luck will need time to  look for better ways 
