@@ -80,3 +80,6 @@ Atended the devcongressv9 had great interaction wit lots of other devs, grest ts
 Caught up with my sololearn javascript and spent a lot of time setting up GHPages for all my uploaded projects made sure files were well organized
 ## R1D87
 read eloquent javascript  , completed the javascript section of sololearn earned the cert , looked into setting up mySQL to learn on the pc ..had no luck will need time to  look for better ways 
+
+## R1D88
+Read an article about job search after eing fired as a dev on fcc- medium  for the better part of the evning been try to set up mysql and phpmyadmin using xammp and its been very fustrating hope i find a way through...
