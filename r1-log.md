@@ -82,4 +82,8 @@ Caught up with my sololearn javascript and spent a lot of time setting up GHPage
 read eloquent javascript  , completed the javascript section of sololearn earned the cert , looked into setting up mySQL to learn on the pc ..had no luck will need time to  look for better ways 
 
 ## R1D88
-Read an article about job search after eing fired as a dev on fcc- medium  for the better part of the evning been try to set up mysql and phpmyadmin using xammp and its been very fustrating hope i find a way through...
+Read an article about job search after eing fired as a dev on fcc- medium  for the better part of the evning been try to set up mysql and phpmyadmin using xammp and its been very fustrating hope i find a way through...\
+
+## R1D 89 
+started a new Vue.js project jokester displays jokes by a GET request to an API on @15DKATZ repo for jokes uses vuex ..exciting stuff ..tried again to set up MySQL with xampp i might need some help ..
+ 
