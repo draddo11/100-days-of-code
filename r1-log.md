@@ -84,6 +84,9 @@ read eloquent javascript  , completed the javascript section of sololearn earned
 ## R1D88
 Read an article about job search after eing fired as a dev on fcc- medium  for the better part of the evning been try to set up mysql and phpmyadmin using xammp and its been very fustrating hope i find a way through...\
 
-## R1D 89 
+## R1D89 
 started a new Vue.js project jokester displays jokes by a GET request to an API on @15DKATZ repo for jokes uses vuex ..exciting stuff ..tried again to set up MySQL with xampp i might need some help ..
+
+##R1D90 
+Tried to complete my full image slider with html css and js and still buggy, reading the eloquent javascript 3 rd edition , will look at the vue project (jokester) before i go to bed
  
