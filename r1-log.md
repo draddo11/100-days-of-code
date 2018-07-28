@@ -89,4 +89,6 @@ started a new Vue.js project jokester displays jokes by a GET request to an API 
 
 ##R1D90 
 Tried to complete my full image slider with html css and js and still buggy, reading the eloquent javascript 3 rd edition , will look at the vue project (jokester) before i go to bed
+##R1D91 
+Had a busy at work stil debugging mutation error in vue ap
  
