@@ -87,8 +87,11 @@ Read an article about job search after eing fired as a dev on fcc- medium  for t
 ## R1D89 
 started a new Vue.js project jokester displays jokes by a GET request to an API on @15DKATZ repo for jokes uses vuex ..exciting stuff ..tried again to set up MySQL with xampp i might need some help ..
 
-##R1D90 
+## R1D90 
 Tried to complete my full image slider with html css and js and still buggy, reading the eloquent javascript 3 rd edition , will look at the vue project (jokester) before i go to bed
-##R1D91 
-Had a busy at work stil debugging mutation error in vue ap
+## R1D91 
+Had a busy at work stil debugging mutation error in vue app
+## R1D92
+read eloqent js 3rd editiom , watching garry simons vues in 60 mins video for different look at mutation issue am currrently having.
+
  
