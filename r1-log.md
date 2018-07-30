@@ -94,4 +94,7 @@ Had a busy at work stil debugging mutation error in vue app
 ## R1D92
 read eloqent js 3rd editiom , watching garry simons vues in 60 mins video for different look at mutation issue am currrently having.
 
+##  R1D92 
+read the eloquent js and started jokester noe joker app ..set up using vue create from (coursetro) also npm run dev /npm run build different things .. production and development env.
+
  
