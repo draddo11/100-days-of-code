@@ -97,4 +97,6 @@ read eloqent js 3rd editiom , watching garry simons vues in 60 mins video for di
 ##  R1D92 
 read the eloquent js and started jokester noe joker app ..set up using vue create from (coursetro) also npm run dev /npm run build different things .. production and development env.
 
+## R1D93 
+had a hard time figuring out mutations ,, error restarted the whole project making progress
  
