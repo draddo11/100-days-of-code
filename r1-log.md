@@ -102,4 +102,7 @@ had a hard time figuring out mutations ,, error restarted the whole project maki
 
 ## R1D94
 Finally got to replicate the issue will look for solutioms(mutations error) 
+
+## R195
+Read eloquent js 
  
