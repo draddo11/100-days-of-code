@@ -107,4 +107,6 @@ Finally got to replicate the issue will look for solutioms(mutations error)
 Read eloquent js 
 ## R196
 Read eloquent javascript 
+## R1D96
+Finally got jokester working can now fetch 10 jokes at a time with the onclick directive with vuex working .. hope to get more update before close of the day 
  
