@@ -112,3 +112,5 @@ Finally got jokester working can now fetch 10 jokes at a time with the onclick d
 
 ## R198
 Did a little styling to the jokes debugging ,,currentling have a duplicte key error but not affecting the functionality of the app yet ..
+## R199
+Finally completed  jokester fully functional , uses api to fect jokes in 10's or individually can add and remove jokes , sort jokes according to catergory and styling  done with  css and bootstrap.can customize to my satisfaction
