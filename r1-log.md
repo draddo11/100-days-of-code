@@ -117,3 +117,7 @@ Finally completed  jokester fully functional , uses api to fect jokes in 10's or
 
 ## R1100 
 Dont think my count is accurate but final day but day 99 on twiiter count crazy .. still looking into the duplicate key error ..app works but there is a delay ..journey so far has been amazing round 2 will start right after.. :-) 
+
+## R2D1(1001)
+Started the final project which uses firebase for authenticatin of users , vuex, router ,mutations ans store ..most complex project so far .. taking it easy dont want to be overwhelmed 
+
