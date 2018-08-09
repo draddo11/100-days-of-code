@@ -121,3 +121,6 @@ Dont think my count is accurate but final day but day 99 on twiiter count crazy 
 ## R2D1(1001)
 Started the final project which uses firebase for authenticatin of users , vuex, router ,mutations ans store ..most complex project so far .. taking it easy dont want to be overwhelmed 
 
+## R2D2(102)
+Turnout has firebase (awesome) for auth with gmail.
+
