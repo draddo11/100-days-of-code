@@ -9,4 +9,7 @@ Worked on the Turnout app added signup option and working on addding the the for
 
 ## R2004
 Working on debugging the console is lit with errors will update log if i succeed in debugging
+
+## R2005 
+Downloaded new tutorials on GraphQL from the react kyeiv youtube and full 4hr tutorial from FCC youtube channel on sql/
  
