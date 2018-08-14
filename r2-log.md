@@ -12,4 +12,7 @@ Working on debugging the console is lit with errors will update log if i succeed
 
 ## R2005 
 Downloaded new tutorials on GraphQL from the react kyeiv youtube and full 4hr tutorial from FCC youtube channel on sql/
+
+## R2005
+downlolded graphql from yutube and tried t0 fix the the firestone issue with turnout
  
