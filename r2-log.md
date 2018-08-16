@@ -16,3 +16,5 @@ Downloaded new tutorials on GraphQL from the react kyeiv youtube and full 4hr tu
 ## R2005
 downlolded graphql from yutube and tried t0 fix the the firestone issue with turnout
  
+## R2006
+finally got around the isse i had to create my own real time database and change the rules ..hoping to finsih up the project soon 
