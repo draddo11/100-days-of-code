@@ -21,3 +21,6 @@ finally got around the isse i had to create my own real time database and change
 
 ## R2007 
 Project done just left with css styling to get it looking super nice 
+
+## R2008 
+Had a great day at D1 of design bootcamp with ppt and figma hope to learn more 
