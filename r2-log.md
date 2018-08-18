@@ -24,3 +24,5 @@ Project done just left with css styling to get it looking super nice
 
 ## R2008 
 Had a great day at D1 of design bootcamp with ppt and figma hope to learn more 
+## R3009
+Day too got to work with the figma tool and its awesome my first graphic design tool .given materials on ppt and the job process ..gotta work on presentatiofor tommorrow on design thinking after out brain sotrm session
