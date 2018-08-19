@@ -1,7 +1,7 @@
 This is the daily log of my second round of 100daysofcode
 Want the count to match that of twitter 
 ## R2D001
-Read about vuex (state manabgement) and other parts of view will upload one vue project 
+Read about vuex (state management) and other parts of view will upload one vue project 
 ## R2D002 
 Worked on turnout app the sign in and sign out feature working with firebase having issues with custom css file working .. 
 ## R2003
@@ -24,5 +24,8 @@ Project done just left with css styling to get it looking super nice
 
 ## R2008 
 Had a great day at D1 of design bootcamp with ppt and figma hope to learn more 
-## R3009
+## R2009
 Day too got to work with the figma tool and its awesome my first graphic design tool .given materials on ppt and the job process ..gotta work on presentatiofor tommorrow on design thinking after out brain sotrm session
+
+## R2010
+Final completed the bootcamp ..was a great experience meet a lot of great people and learned a lot..if anthing i need to workon my design
