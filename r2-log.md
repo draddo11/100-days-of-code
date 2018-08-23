@@ -39,4 +39,5 @@ Got the sql corse started installed and run pop sql ..got some basic commands li
 ##R2D13
 Did some more sql,starting my day with the vue handbook
 
-
+## R2D13
+Discovered that my old projects using the web simple command to generat vue templtates was no longer supported and thats why the npm run dev command wasnt working for them and i deleted them out of fustration some weeks pass .. need to find time to redo all the projects with vue create and leearn sas/lass for my css needsin vue projects
