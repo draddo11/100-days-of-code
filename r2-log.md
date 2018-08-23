@@ -35,3 +35,8 @@ Got started on learning a backend (tried node but video wasnt really well struec
 
 ## R2D12 
 Got the sql corse started installed and run pop sql ..got some basic commands like CREATE , ADD really exciting stuff .
+
+##R2D13
+Did some more sql,starting my day with the vue handbook
+
+
