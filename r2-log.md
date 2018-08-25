@@ -44,3 +44,5 @@ Discovered that my old projects using the web simple command to generat vue temp
 
 ## R2D15
 Looking into saas docs and how to go about the css issue becasue scope css is not working for my components.
+## R2D16 
+Went to a devveloper circles meet up at mest about REACTJS hands on by oliver mensah ..great opportunity to seehow it woorks and the similarities it has with vue
