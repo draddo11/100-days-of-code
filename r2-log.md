@@ -49,3 +49,6 @@ Went to a devveloper circles meet up at mest about REACTJS hands on by oliver me
 
 ## R2D16
 Read Vue tutorials from tutorials piont,went through the catalogue codemy fro react to help ,me graps some core concepts before the next facebook developers  circle meet up on react
+
+## R2D17 
+Read vue tutorails and eloquent js 
