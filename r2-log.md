@@ -52,3 +52,6 @@ Read Vue tutorials from tutorials piont,went through the catalogue codemy fro re
 
 ## R2D17 
 Read vue tutorails and eloquent js 
+
+## R2D18 
+Found a great resource for 'learning react the 30days of reactfrom the fullstack react website great book so far ,,
