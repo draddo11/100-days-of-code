@@ -60,3 +60,6 @@ Found a great resource for 'learning react the 30days of reactfrom the fullstack
 Started building or practicing with the book .react loves components ..completed the hello world :)
 ## R2D20 
 already 20 days into the second rounf awesome .. run into issue with the first complete react app with multiple components must have missed something going to start all over again 
+
+## R2D21
+ Got back on track with react wit a 2 hr crash course/project from mosh and a js for react developers from him ,also did a part of js from brad channel 
