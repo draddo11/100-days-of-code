@@ -58,3 +58,5 @@ Found a great resource for 'learning react the 30days of reactfrom the fullstack
 
 ## R2D19
 Started building or practicing with the book .react loves components ..completed the hello world :)
+## R2D20 
+already 20 days into the second rounf awesome .. run into issue with the first complete react app with multiple components must have missed something going to start all over again 
