@@ -63,3 +63,5 @@ already 20 days into the second rounf awesome .. run into issue with the first c
 
 ## R2D21
  Got back on track with react wit a 2 hr crash course/project from mosh and a js for react developers from him ,also did a part of js from brad channel 
+## R2D22 
+Made some massive progress with the video from mosh the preoject looks simple on the suface but got a lot of moving parts under the hood.enjoyint the video so far  
