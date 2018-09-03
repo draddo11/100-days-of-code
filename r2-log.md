@@ -66,5 +66,8 @@ already 20 days into the second rounf awesome .. run into issue with the first c
 ## R2D22 
 Made some massive progress with the video from mosh the preoject looks simple on the suface but got a lot of moving parts under the hood.enjoyint the video so far  
 
-##R2D22
+## R2D22
 Continued with mosh react crash course .runinto a few issue resolved them 
+## R2D23
+Continued with mos ...finallygoy the core of the app ccreatered a xomponent callws counters
+
