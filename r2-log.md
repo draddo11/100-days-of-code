@@ -70,4 +70,6 @@ Made some massive progress with the video from mosh the preoject looks simple on
 Continued with mosh react crash course .runinto a few issue resolved them 
 ## R2D23
 Continued with mos ...finallygoy the core of the app ccreatered a xomponent callws counters
-
+## R2D24
+Finally completed my first full react app ,nothing complex ,,have an issue with a button , but over been great experience
+..will continue to fine tune it(debugg) and upload to github 
