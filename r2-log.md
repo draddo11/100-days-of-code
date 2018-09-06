@@ -73,3 +73,6 @@ Continued with mos ...finallygoy the core of the app ccreatered a xomponent call
 ## R2D24
 Finally completed my first full react app ,nothing complex ,,have an issue with a button , but over been great experience
 ..will continue to fine tune it(debugg) and upload to github 
+
+## R2D25 
+Cant make any comits latter today just going to read js books..first commit on a moving bus 
