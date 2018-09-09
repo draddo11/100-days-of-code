@@ -76,3 +76,5 @@ Finally completed my first full react app ,nothing complex ,,have an issue with 
 
 ## R2D25 
 Cant make any comits latter today just going to read js books..first commit on a moving bus 
+## R2D26
+read about how Github removed jQuery from their site
