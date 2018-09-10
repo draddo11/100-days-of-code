@@ -81,3 +81,5 @@ read about how Github removed jQuery from their site
 
 ## R2D26
 Had a hectic day but managed  to get yime to watch a video on sites a freelancer needs to know about by brad
+## R2D7
+managed to go through part of a grid systems video by brad .. want to workon react by mosh debugg and osh to Gh
