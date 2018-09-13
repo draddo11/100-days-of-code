@@ -87,3 +87,5 @@ managed to go through part of a grid systems video by brad .. want to workon rea
 Got to start javascript for react developers by mosh  also downloaded a tutorial on javascript algorithms and data structures
 ## R2D29 
 DID a section of the js for react devs and js algos 
+##R2D30
+A month into  R2 OF THIS challenge ..downloaded a node js boook today to read ..will lwork on something more 
