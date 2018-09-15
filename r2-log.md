@@ -91,3 +91,6 @@ DID a section of the js for react devs and js algos
 A month into  R2 OF THIS challenge ..downloaded a node js boook today to read ..will lwork on something more 
 ## R2D31
 A slow day found jsteacheers vue js course i am going to check it out
+
+##R2D32
+Uploaded counter-appreactjs to  githubwithhosting by netlify ..debuged it's delete bug caused by a typo
