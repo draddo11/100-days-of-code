@@ -92,5 +92,8 @@ A month into  R2 OF THIS challenge ..downloaded a node js boook today to read ..
 ## R2D31
 A slow day found jsteacheers vue js course i am going to check it out
 
-##R2D32
-Uploaded counter-appreactjs to  githubwithhosting by netlify ..debuged it's delete bug caused by a typo
+##  R2D32
+Uploaded counter-appreactjs to  github with hosting by netlify ..debuged it's delete bug caused by a typo.. silly me
+
+## R2D33 
+Commited on my vuejs counter app will try and incooperate firebase to it will need to use vue router. will finish some of my vue js projects from 15dkatz course  
