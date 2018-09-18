@@ -97,3 +97,6 @@ Uploaded counter-appreactjs to  github with hosting by netlify ..debuged it's de
 
 ## R2D33 
 Commited on my vuejs counter app will try and incooperate firebase to it will need to use vue router. will finish some of my vue js projects from 15dkatz course  
+
+## R2D34 
+Started a new starwas project  vuejs  to meet my gosl of s project s week for the monthof september 
