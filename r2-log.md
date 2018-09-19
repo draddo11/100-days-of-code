@@ -98,5 +98,12 @@ Uploaded counter-appreactjs to  github with hosting by netlify ..debuged it's de
 ## R2D33 
 Commited on my vuejs counter app will try and incooperate firebase to it will need to use vue router. will finish some of my vue js projects from 15dkatz course  
 
+
 ## R2D34 
 Started a new starwas project  vuejs  to meet my gosl of s project s week for the monthof september 
+
+## R2D35
+Worked on the starbase app that fetches character bio info from a starwars api for learning .. part of my old projects but for some reasoon all apps that i used webpacksimple template to build dont work when i ran npm run dev
+
+## R2D36 
+Completed starwars projet started with one that is more advanced and usesvue router will upload both to github latter in the week
