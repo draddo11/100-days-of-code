@@ -107,3 +107,6 @@ Worked on the starbase app that fetches character bio info from a starwars api f
 
 ## R2D36 
 Completed starwars projet started with one that is more advanced and usesvue router will upload both to github latter in the week
+
+## R2D37
+Started a new vue js project with same API but different applicationusing vue router ..awwesome stuff ..
