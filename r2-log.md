@@ -112,7 +112,10 @@ Completed starwars projet started with one that is more advanced and usesvue rou
 Started a new vue js project with same API but different applicationusing vue router ..awwesome stuff ..
 
 ## R2D38
-Manged to find a way around a bootrap issue by using an older versio (3.7) instead of 4.1.3.. now all boostrap are behavinhg right .
+Managed to find a way around a bootrap issue by using an older versio (3.7) instead of 4.1.3.. now all boostrap are behavinhg right .
 Finsihed both starswars router and star wars project will upload 
 ## R239
 Uploaded the star base and starbase router projects to github but cant get the files to work with Netlify for some reason ..
+## R2D39-41
+Worked on the netlify finally up and runnung updated the readmes of bioth projects with  link from netlify 
+
