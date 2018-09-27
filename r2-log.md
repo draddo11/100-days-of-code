@@ -119,3 +119,5 @@ Uploaded the star base and starbase router projects to github but cant get the f
 ## R2D39-41
 Worked on the netlify finally up and runnung updated the readmes of bioth projects with  link from netlify 
 
+## R2D42
+Started work on the jokester slow paced becaused want to understand all parts , excited
