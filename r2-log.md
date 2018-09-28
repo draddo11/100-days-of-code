@@ -123,3 +123,5 @@ Worked on the netlify finally up and runnung updated the readmes of bioth projec
 Started work on the jokester slow paced becaused want to understand all parts , excited
 ## R2D43
 Still workering on thr jokester vuejs app.state management 
+## R2D44
+watched videos on vue native for moniile apps and how js is the future 
