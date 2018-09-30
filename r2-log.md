@@ -125,3 +125,7 @@ Started work on the jokester slow paced becaused want to understand all parts , 
 Still workering on thr jokester vuejs app.state management 
 ## R2D44
 watched videos on vue native for moniile apps and how js is the future 
+
+## R2D45
+Worked on the jokester vue app sre cancomplete it soon
+
