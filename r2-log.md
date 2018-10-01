@@ -129,3 +129,6 @@ watched videos on vue native for moniile apps and how js is the future
 ## R2D45
 Worked on the jokester vue app sre cancomplete it soon
 
+## R2D46
+WORKED ON VUE app jokester 
+
