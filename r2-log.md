@@ -131,4 +131,5 @@ Worked on the jokester vue app sre cancomplete it soon
 
 ## R2D46
 WORKED ON VUE app jokester 
-
+## R2D47
+COMPLETED the jokester app will host on netlify and  github 
