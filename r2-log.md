@@ -133,3 +133,5 @@ Worked on the jokester vue app sre cancomplete it soon
 WORKED ON VUE app jokester 
 ## R2D47
 COMPLETED the jokester app will host on netlify and  github 
+## R2D48 
+Finally uploaded jokster to github and hosted on netlify :)
