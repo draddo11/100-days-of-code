@@ -136,4 +136,7 @@ COMPLETED the jokester app will host on netlify and  github
 ## R2D48 
 Finally uploaded jokster to github and hosted on netlify :)
 ## R2D49
-not worked on anything yet 
+working my way through vue mastery videos.
+
+## R2D50
+Did some sectoion of vue mastery videos for vue basucs 
