@@ -140,3 +140,6 @@ working my way through vue mastery videos.
 
 ## R2D50
 Did some sectoion of vue mastery videos for vue basucs 
+
+## R2D51
+started off my weekend project by checking out the free hosting by 00webhost will continue to work o it with wordpress
