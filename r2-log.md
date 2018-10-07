@@ -143,3 +143,6 @@ Did some sectoion of vue mastery videos for vue basucs
 
 ## R2D51
 started off my weekend project by checking out the free hosting by 00webhost will continue to work o it with wordpress
+
+## R2D52
+Saw a video on the next features of javascipt and watched a bit of video on typescript
