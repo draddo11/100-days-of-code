@@ -146,3 +146,5 @@ started off my weekend project by checking out the free hosting by 00webhost wil
 
 ## R2D52
 Saw a video on the next features of javascipt and watched a bit of video on typescript
+## R2D53 
+Set up my wordpress site on the freee hosting 
