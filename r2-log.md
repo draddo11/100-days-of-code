@@ -151,3 +151,5 @@ Set up my wordpress site on the freee hosting
 
 ## R2D53
 wordpress day did a part of the wordpress site
+## R2D54
+Finally figured out hoe to update and save templetes ..exciting dtuff .. also downloaded avideo on typscript
