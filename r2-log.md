@@ -155,3 +155,5 @@ wordpress day did a part of the wordpress site
 Finally figured out hoe to update and save templetes ..exciting dtuff .. also downloaded avideo on typscript
 ## R2D55
 Had a great time with brad's video on typscript
+## R2D56 
+Did typscript video tutorial
