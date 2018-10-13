@@ -157,3 +157,5 @@ Finally figured out hoe to update and save templetes ..exciting dtuff .. also do
 Had a great time with brad's video on typscript
 ## R2D56 
 Did typscript video tutorial
+## R2D57
+Git video done 
