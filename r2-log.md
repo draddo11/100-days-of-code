@@ -159,3 +159,5 @@ Had a great time with brad's video on typscript
 Did typscript video tutorial
 ## R2D57
 Git video done 
+##  R2D58 
+started working on brad's full stack vue with mongo and express
