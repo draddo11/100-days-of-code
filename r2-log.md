@@ -161,3 +161,5 @@ Did typscript video tutorial
 Git video done 
 ##  R2D58 
 started working on brad's full stack vue with mongo and express
+## R2D59
+Looked at a react crash course and reviewed old code
