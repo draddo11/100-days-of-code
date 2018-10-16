@@ -165,3 +165,5 @@ started working on brad's full stack vue with mongo and express
 Looked at a react crash course and reviewed old code
 ## R2D60
 started new vue fulll stack project with mongo db express
+## R2D61
+completed back end of the vue js project front end to follow
