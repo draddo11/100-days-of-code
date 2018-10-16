@@ -163,3 +163,5 @@ Git video done
 started working on brad's full stack vue with mongo and express
 ## R2D59
 Looked at a react crash course and reviewed old code
+## R2D60
+started new vue fulll stack project with mongo db express
