@@ -167,3 +167,6 @@ Looked at a react crash course and reviewed old code
 started new vue fulll stack project with mongo db express
 ## R2D61
 completed back end of the vue js project front end to follow
+
+##D2R62
+Debugging my vuejs app
