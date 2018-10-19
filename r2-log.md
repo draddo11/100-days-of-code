@@ -168,5 +168,7 @@ started new vue fulll stack project with mongo db express
 ## R2D61
 completed back end of the vue js project front end to follow
 
-##D2R62
+## R2D62
 Debugging my vuejs app
+## R2D63
+worked on js spread operators and object destruecting from a section of js mobile web specialist coourse from grow with google
