@@ -172,3 +172,5 @@ completed back end of the vue js project front end to follow
 Debugging my vuejs app
 ## R2D63
 worked on js spread operators and object destruecting from a section of js mobile web specialist coourse from grow with google
+## R2D64 
+Completed fucntions section of thepluralsight mobile web specialist
