@@ -173,4 +173,7 @@ Debugging my vuejs app
 ## R2D63
 worked on js spread operators and object destruecting from a section of js mobile web specialist coourse from grow with google
 ## R2D64 
-Completed fucntions section of thepluralsight mobile web specialist
+Completed functions section of thepluralsight mobile web specialist
+## R2D65
+Completed objects anad programming for web section
+
