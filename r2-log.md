@@ -177,3 +177,6 @@ Completed functions section of thepluralsight mobile web specialist
 ## R2D65
 Completed objects anad programming for web section
 
+## R2D66 
+had a great time completing some aspect of the javascript beginners section 
+
