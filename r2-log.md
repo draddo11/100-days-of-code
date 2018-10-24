@@ -180,3 +180,6 @@ Completed objects anad programming for web section
 ## R2D66 
 had a great time completing some aspect of the javascript beginners section 
 
+## R2D67
+did a section ofjavascript and angular bascis videos today
+
