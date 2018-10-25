@@ -183,3 +183,6 @@ had a great time completing some aspect of the javascript beginners section
 ## R2D67
 did a section ofjavascript and angular bascis videos today
 
+## R2D68
+Did a section of the javascript and a bit of angula
+
