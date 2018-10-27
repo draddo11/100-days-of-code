@@ -188,4 +188,5 @@ Did a section of the javascript and a bit of angula
 
 ## R270
 started with the basics of angular all good so far 
-
+## D2D71
+Continues to cover javascriptt and angular
