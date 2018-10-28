@@ -189,4 +189,8 @@ Did a section of the javascript and a bit of angula
 ## R270
 started with the basics of angular all good so far 
 ## D2D71
-Continues to cover javascriptt and angular
+Continued to cover javascript and angular.
+
+## R2D72
+Worked on the angular app built another component and worked with bootstrap for css styling
+
