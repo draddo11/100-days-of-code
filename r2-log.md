@@ -197,3 +197,8 @@ Worked on the angular app built another component and worked with bootstrap for 
 ## R2D73
 Downloaded python crash course from mosh ..review my angular so far  then continue 
 
+## R2D74 
+Continued with angular and javascipt section on the mobile web specialist 
+
+
+
