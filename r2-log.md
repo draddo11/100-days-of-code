@@ -194,3 +194,6 @@ Continued to cover javascript and angular.
 ## R2D72
 Worked on the angular app built another component and worked with bootstrap for css styling
 
+## R2D73
+Downloaded python crash course from mosh ..review my angular so far  then continue 
+
