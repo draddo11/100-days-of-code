@@ -199,6 +199,8 @@ Downloaded python crash course from mosh ..review my angular so far  then contin
 
 ## R2D74 
 Continued with angular and javascipt section on the mobile web specialist 
+## R2D75 
+worked on angulare directive  angualr-if 
 
 
 
