@@ -203,7 +203,10 @@ Continued with angular and javascipt section on the mobile web specialist
 worked on angulare directive  angualr-if (directives ) for angular
 
 ## R2D76
-Wrked on more intro to angular
+Wrked on more intro to angular components
+
+## R2D77
+Pipes in Angular was covered today
 
 
 
