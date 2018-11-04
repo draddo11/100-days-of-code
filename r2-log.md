@@ -207,6 +207,10 @@ Wrked on more intro to angular components
 
 ## R2D77
 Pipes in Angular was covered today
+## R2D78-79
+Covered 
+inheritance, Classes , Modules  in javascript 
+Data binding in angular section 
 
 
 
