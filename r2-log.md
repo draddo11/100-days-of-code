@@ -211,6 +211,8 @@ Pipes in Angular was covered today
 Covered 
 inheritance, Classes , Modules  in javascript 
 Data binding in angular section 
+## R2D80
+Covered programming with BOM and DOM in javascript
 
 
 
