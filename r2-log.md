@@ -213,6 +213,8 @@ inheritance, Classes , Modules  in javascript
 Data binding in angular section 
 ## R2D80
 Covered programming with BOM and DOM in javascript
+## R2D81 
+laptop died on me 3 am so will continue with phone 
 
 
 
