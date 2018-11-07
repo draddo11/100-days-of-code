@@ -215,6 +215,9 @@ Data binding in angular section
 Covered programming with BOM and DOM in javascript
 ## R2D81 
 laptop died on me 3 am so will continue with phone 
+## 
+R2D81 
+Download somw of the videos for owa to watch om Mobile
 
 
 
