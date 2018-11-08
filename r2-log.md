@@ -31,7 +31,7 @@ Day too got to work with the figma tool and its awesome my first graphic design 
 Final completed the bootcamp ..was a great experience meet a lot of great people and learned a lot..if anthing i need to workon my design
 
 ## R2D11 
-Got started on learning a backend (tried node but video wasnt really well struectured) going well so far SQL video from FCC youtube channel is great so far 
+Got started on learning a backend (tried node but video wasnt really well struectured going well so far SQL video from FCC youtube channel is great so far 
 
 ## R2D12 
 Got the sql corse started installed and run pop sql ..got some basic commands like CREATE , ADD really exciting stuff .
