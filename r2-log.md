@@ -34,7 +34,7 @@ Final completed the bootcamp ..was a great experience meet a lot of great people
 Got started on learning a backend (tried node but video wasnt really well struectured going well so far SQL video from FCC youtube channel is great so far 
 
 ## R2D12 
-Got the sql corse started installed and run pop sql ..got some basic commands like CREATE , ADD really exciting stuff .
+Got the sql course started installed and run pop sql ..got some basic commands like CREATE , ADD really exciting stuff .
 
 ## R2D13
 Did some more sql,starting my day with the vue handbook
