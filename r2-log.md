@@ -218,7 +218,7 @@ laptop died on me 3 am so will continue with phone
 ## R2D81 
 Download somw of the videos for owa to watch om Mobile
 ## R2D82 - 84
-Watching a crash course for angular 6 from mosh hadid
+Watching a crash course for angular 6 from Gary Simons  courseto channel on youtube
 
 
 
