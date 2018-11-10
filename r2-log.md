@@ -220,6 +220,9 @@ Download somw of the videos for owa to watch om Mobile
 ## R2D82 - 84
 Watching a crash course for angular 6 from Gary Simons  courseto channel on youtube
 
+## R2D85 
+downloaded  a youtube tutorial from acamemind* masimmilo on flutter (will look at in my spare time )   and  a video from gary simon from  coursetro on angular 7  ..watched my pluralsight videos on javascipt classes and modules again 
+
 
 
 
