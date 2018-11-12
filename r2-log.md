@@ -222,6 +222,8 @@ Watching a crash course for angular 6 from Gary Simons  courseto channel on yout
 
 ## R2D85 
 downloaded  a youtube tutorial from acamemind* masimmilo on flutter (will look at in my spare time )   and  a video from gary simon from  coursetro on angular 7  ..watched my pluralsight videos on javascipt classes and modules again 
+## R2D86
+did a little javascript from pluralsight  will do more latter in the day 
 
 
 
