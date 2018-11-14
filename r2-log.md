@@ -227,6 +227,9 @@ did a little javascript from pluralsight  will do more latter in the day
 ## R2D87
 Downloaded angular 7 crash course from youtube by designcourse channel
 
+## R2D88
+Started watching the sngular 7 crash coursre from designcouse
+
 
 
 
