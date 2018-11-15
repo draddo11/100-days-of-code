@@ -229,6 +229,8 @@ Downloaded angular 7 crash course from youtube by designcourse channel
 
 ## R2D88
 Started watching the sngular 7 crash coursre from designcouse
+## R2D89
+Continued with angular 7 tutorial
 
 
 
