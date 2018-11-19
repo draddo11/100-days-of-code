@@ -17,7 +17,7 @@ Downloaded new tutorials on GraphQL from the react kyeiv youtube and full 4hr tu
 downlolded graphql from yutube and tried t0 fix the the firestone issue with turnout
  
 ## R2D006
-finally got around the isse i had to create my own real time database and change the rules ..hoping to finsih up the project soon 
+finally got around the issue i had to create my own real time database and change the rules ..hoping to finsih up the project soon 
 
 ## R2D007 
 Project done just left with css styling to get it looking super nice 
