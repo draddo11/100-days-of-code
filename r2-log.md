@@ -231,6 +231,8 @@ Downloaded angular 7 crash course from youtube by designcourse channel
 Started watching the sngular 7 crash coursre from designcouse
 ## R2D89
 Continued with angular 7 tutorial
+## R2D90-92
+Gopmg through javascript section of plural sighy been finding it difficult to spend a lot of time coding 
 
 
 
