@@ -234,6 +234,9 @@ Continued with angular 7 tutorial
 ## R2D90-92
 Gopmg through javascript section of plural sighy been finding it difficult to spend a lot of time coding 
 
+## R2D93
+Worked on plural sight javascript and angular
+
 
 
 
