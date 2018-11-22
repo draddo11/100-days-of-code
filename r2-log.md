@@ -237,6 +237,9 @@ Gopmg through javascript section of plural sighy been finding it difficult to sp
 ## R2D93
 Worked on plural sight javascript and angular
 
+## R2D94
+Worked on angular section 
+
 
 
 
