@@ -240,6 +240,9 @@ Worked on plural sight javascript and angular
 ## R2D94
 Worked on angular section 
 
+## R2D95 
+worked on completing angular 7 crash course by gary simons 
+
 
 
 
