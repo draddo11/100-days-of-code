@@ -243,6 +243,9 @@ Worked on angular section
 ## R2D95 
 worked on completing angular 7 crash course by gary simons 
 
+## R2D96 
+continued with angular 7 crash course by garry simons
+
 
 
 
