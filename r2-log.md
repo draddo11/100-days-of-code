@@ -247,6 +247,8 @@ worked on completing angular 7 crash course by gary simons
 continued with angular 7 crash course by garry simons
 ## R2D97
 Finallly completed the ng 7 tutorial will host on GH pages
+## R2D98-99
+Having issues with netlify for live hostong
 
 
 
