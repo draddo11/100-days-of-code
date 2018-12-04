@@ -8,3 +8,6 @@ Covered the promises and error handling section of grow with google pluralsight 
 Covered the javascript sectipn : http request
 ## R2D3 
 Covered building for prodution and security (javascript)
+
+## R3D4
+Reading eloquent javascript 3 rd edition want to complete it this time around 
