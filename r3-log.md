@@ -11,3 +11,6 @@ Covered building for prodution and security (javascript)
 
 ## R3D4
 Reading eloquent javascript 3 rd edition want to complete it this time around 
+
+## R3D5
+Continued with pluralsight angular and javascript 
