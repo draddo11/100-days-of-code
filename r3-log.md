@@ -14,3 +14,6 @@ Reading eloquent javascript 3 rd edition want to complete it this time around
 
 ## R3D5
 Continued with pluralsight angular and javascript 
+
+## R3D6-9
+Built a parallax website and did some angular from pluralsight 
