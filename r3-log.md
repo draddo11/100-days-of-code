@@ -17,3 +17,6 @@ Continued with pluralsight angular and javascript
 
 ## R3D6-9
 Built a parallax website and did some angular from pluralsight 
+
+## R3D10 
+Worked on how to use svg to makepralla effect
