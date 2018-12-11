@@ -251,7 +251,7 @@ Finallly completed the ng 7 tutorial will host on GH pages
 Having issues with netlify for live hosting 
 
 ##R2D100
-was hoping to host the angular 7 site on github pages facing some issues    
+was hoping to host the angular 7 site on github pages facing some issue
 
 
 
