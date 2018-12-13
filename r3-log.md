@@ -20,3 +20,6 @@ Built a parallax website and did some angular from pluralsight
 
 ## R3D10 
 Worked on how to use svg to makepralla effect
+
+##R3D11-12 
+coudnt get much done used the offline playerto go through son videos
