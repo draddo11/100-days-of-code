@@ -25,4 +25,7 @@ Worked on how to use svg to makepralla effect
 coudnt get much done used the offline playerto go through son videos
 
 ## R3D13 
- Covered some videos with the offline player goint to statrt using it often becuase of the unrelaible network 
+ Covered some videos with the offline player got to statrt using it often becuase of the unrelaible network 
+ 
+ ## R3D14 
+ Started my weekend with pluralsight pwa downloaded so dont have to worry about network issues 
