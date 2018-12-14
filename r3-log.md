@@ -23,3 +23,6 @@ Worked on how to use svg to makepralla effect
 
 ##R3D11-12 
 coudnt get much done used the offline playerto go through son videos
+
+## R3D13 
+ Covered some videos with the offline player goint to statrt using it often becuase of the unrelaible network 
