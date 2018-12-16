@@ -29,3 +29,6 @@ coudnt get much done used the offline playerto go through son videos
  
  ## R3D14 
  Started my weekend with pluralsight pwa downloaded so dont have to worry about network issues 
+ 
+ ## R3D15
+ Covered intro to service workers and pwa 
