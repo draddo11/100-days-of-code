@@ -34,3 +34,5 @@ coudnt get much done used the offline playerto go through son videos
  Covered intro to service workers and pwa 
 ## R3D16
  Covered promises section of service workers 
+ ##R3D17
+ Covered dervice workers and promises 
