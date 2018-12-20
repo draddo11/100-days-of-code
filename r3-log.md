@@ -38,3 +38,6 @@ coudnt get much done used the offline playerto go through son videos
  Covered service workers and promises 
  ## R3D18 
  Covered registration of serice workers and worked on the angualr 7 APP footer 
+ ##R3D19 
+ Could not get any thing done had to work all da
+ 
