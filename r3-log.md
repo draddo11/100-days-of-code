@@ -40,6 +40,8 @@ coudnt get much done used the offline playerto go through son videos
  Covered registration of serice workers and worked on the angualr 7 APP footer 
  ##R3D19 
  Could not get any thing done had to work all day
-  ##R3D20-21
+  ## R3D20-21
   trying to download more courses for offline learning continued with Pwa (service workers)
+  ## R3D22 
+  Finally uploaded my angular 7 website onto 000website after trying netlify and gh pages 
  
