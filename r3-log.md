@@ -41,4 +41,5 @@ coudnt get much done used the offline playerto go through son videos
  ##R3D19 
  Could not get any thing done had to work all day
   ##R3D20-21
+  trying to download more courses for offline learning continued with Pwa (service workers)
  
