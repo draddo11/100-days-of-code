@@ -49,3 +49,6 @@ coudnt get much done used the offline playerto go through son videos
   website
  ## R3D25
  learned about push notifications in PWA and got a bunch of videos on adobe xd and figma for prototyping 
+ 
+ ## R3D26 
+ Saw a video about pricing for logo as a designer 
