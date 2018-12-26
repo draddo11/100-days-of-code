@@ -38,12 +38,14 @@ coudnt get much done used the offline playerto go through son videos
  Covered service workers and promises 
  ## R3D18 
  Covered registration of serice workers and worked on the angualr 7 APP footer 
- ##R3D19 
+ ## R3D19 
  Could not get any thing done had to work all day
-  ## R3D20-21
+ ## R3D20-21
   trying to download more courses for offline learning continued with Pwa (service workers)
-  ## R3D22 
+ ## R3D22 
   Finally uploaded my angular 7 website onto 000website after trying netlify and gh pages 
-  ##R3D23-24 
-  Learned about manifest in service workers and the favoriteicon for designing and testing icons on all major platforms from a single website
- 
+ ## R3D23-24 
+  Learned about manifest in service workers and the favoriteicon for designing and testing icons on all major platforms from a single
+  website
+ ## R3D25
+ learned about push notifications in PWA and got a bunch of videos on adobe xd and figma for prototyping 
