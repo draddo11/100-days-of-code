@@ -52,3 +52,6 @@ coudnt get much done used the offline playerto go through son videos
  
  ## R3D26 
  Saw a video about pricing for logo as a designer 
+ 
+ ## R3D27 
+ Did a section on pwa service workers 
