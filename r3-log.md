@@ -55,3 +55,6 @@ coudnt get much done used the offline playerto go through son videos
  
  ## R3D27 
  Did a section on pwa service workers 
+ 
+ ## R3D28
+ Finally download the mean additional cousre for thr mobile web specialist 
