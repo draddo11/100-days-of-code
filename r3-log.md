@@ -60,3 +60,5 @@ coudnt get much done used the offline playerto go through son videos
  Finally download the mean additional cousre for thr mobile web specialist 
 ## R3D29
 Worked the backend section of a fullstack mean stack from pluralsight ..learned about live servers
+## R3D30 
+Workedon the front endof the project
