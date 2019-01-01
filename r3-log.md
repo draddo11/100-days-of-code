@@ -61,4 +61,6 @@ coudnt get much done used the offline playerto go through son videos
 ## R3D29
 Worked the backend section of a fullstack mean stack from pluralsight ..learned about live servers
 ## R3D30 
-Workedon the front endof the project
+Worked on the front endof the project
+ ## R3d31
+ will work an awesome landing page for my holiday project ..happy newy year
