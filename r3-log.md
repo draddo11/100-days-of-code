@@ -62,5 +62,7 @@ coudnt get much done used the offline playerto go through son videos
 Worked the backend section of a fullstack mean stack from pluralsight ..learned about live servers
 ## R3D30 
 Worked on the front endof the project
- ## R3d31
+ ## R3D31
  will work an awesome landing page for my holiday project ..happy newy year
+ ## R3DD32
+puttion finidhing touches to the langinfg page wil upload to GHpages
