@@ -66,3 +66,6 @@ Worked on the front endof the project
  will work an awesome landing page for my holiday project ..happy newy year
  ## R3DD32
 puttion finidhing touches to the langinfg page wil upload to GHpages
+
+## R3D33
+Finishing up the landing page
