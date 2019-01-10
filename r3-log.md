@@ -69,3 +69,7 @@ puttion finidhing touches to the langinfg page wil upload to GHpages
 
 ## R3D33
 Finishing up the landing page
+
+
+## R3D34-39 
+Been doing a combination of working on the animated landing page , reading Eloquent Js and going through the PWA section of the pluralsight 
