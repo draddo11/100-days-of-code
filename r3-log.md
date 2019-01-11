@@ -73,3 +73,6 @@ Finishing up the landing page
 
 ## R3D34-39 
 Been doing a combination of working on the animated landing page , reading Eloquent Js and going through the PWA section of the pluralsight 
+
+## R3D40
+COvered objects and prototypes section onplural sight
