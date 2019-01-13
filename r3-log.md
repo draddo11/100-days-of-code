@@ -77,5 +77,5 @@ Been doing a combination of working on the animated landing page , reading Eloqu
 ## R3D40
 COvered objects and prototypes section on pluralsight
 
-## R3D41
-Coveered some section of pratical design patterns in javascript 
+## R3D41-42
+Covered some section of pratical design patterns in javascript 
