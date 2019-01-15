@@ -79,3 +79,5 @@ COvered objects and prototypes section on pluralsight
 
 ## R3D41-42
 Covered some section of pratical design patterns in javascript 
+## R3D43
+Covering section of the creational design patterns in jS
