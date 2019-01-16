@@ -81,3 +81,6 @@ COvered objects and prototypes section on pluralsight
 Covered some section of pratical design patterns in javascript 
 ## R3D43
 Covering section of the creational design patterns in jS
+
+## R3D43
+Did a login screeni will intergrate into my old projects to improve the looks 
