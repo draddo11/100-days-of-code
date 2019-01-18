@@ -84,3 +84,6 @@ Covering section of the creational design patterns in jS
 
 ## R3D43
 Did a login screeni will intergrate into my old projects to improve the looks 
+
+## R3D44-45 
+Worked on uploading a login page onto GITHUB/ a little Pluralsight 
