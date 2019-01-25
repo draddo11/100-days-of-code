@@ -90,3 +90,5 @@ Worked on uploading a login page onto GITHUB/ a little Pluralsight
 
 ## R3D46 
 Continued with pluralsight objects
+# R3D47-D55
+Worked on a vue theme 
