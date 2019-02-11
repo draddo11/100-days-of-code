@@ -92,3 +92,8 @@ Worked on uploading a login page onto GITHUB/ a little Pluralsight
 Continued with pluralsight objects
 # R3D47-D55
 Worked on a vue theme 
+
+## R3D56-72 
+- completed the vue theme work
+learned more about Node js /Vuejs /Vuetify /SCSS 
+
