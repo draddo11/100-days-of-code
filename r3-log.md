@@ -96,7 +96,17 @@ Worked on a vue theme
 ## R3D56-72 
 - completed the vue theme work
 learned more about Node js /Vuejs /Vuetify /SCSS 
-## R3D73 
 
-Continuewith saass and nodejs
+## R3D73 
+Continued with saass and nodejs
+
+```javascript 
+"After a long haitus am back" 
+```
+```
+R2D74 
+Got into ALC 4.0 back to basics CSS
+```
+
+
 
