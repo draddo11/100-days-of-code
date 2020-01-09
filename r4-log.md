@@ -12,4 +12,6 @@ this is my fouth log for ## 100DaysOfCode
 
 ## 6 improved the forms decided to go with bootsrap
 
-## 7 working to improve the ux by optimizing the lenght of the text box
+## 7 working to improve the ux by optimizing the lenght of the text 
+
+## 8  addded a working textarea and  
