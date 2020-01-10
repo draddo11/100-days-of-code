@@ -15,3 +15,7 @@ this is my fouth log for ## 100DaysOfCode
 ## 7 working to improve the ux by optimizing the lenght of the text 
 
 ## 8  addded a working textarea and  
+
+## 9 added delete feature to task tracker 
+
+## 10 finalised the app features working 
