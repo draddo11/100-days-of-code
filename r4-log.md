@@ -21,3 +21,5 @@ this is my fouth log for ## 100DaysOfCode
 ## 10 finalised the app features working 
 
 ## 11 created starbase project with wenpack simple template 
+
+## 12 installed vue bootsrap and created css file for project 
