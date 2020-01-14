@@ -23,3 +23,11 @@ this is my fouth log for ## 100DaysOfCode
 ## 11 created starbase project with wenpack simple template 
 
 ## 12 installed vue bootsrap and created css file for project 
+
+## 13 added new component to project (character component)
+
+## 14 fetch and calls to pick random character info  
+
+
+
+
