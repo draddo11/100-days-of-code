@@ -1,4 +1,4 @@
-this is my fouth log for ## 100DaysOfCode  
+this is my fourth log for ## 100DaysOfCode  
 
 ## 1 Covered the vue basics lifecycle hooks created 
 
@@ -27,6 +27,10 @@ this is my fouth log for ## 100DaysOfCode
 ## 13 added new component to project (character component)
 
 ## 14 fetch and calls to pick random character info  
+
+## 15 setup the files for a joint project 
+
+## 16
 
 
 
